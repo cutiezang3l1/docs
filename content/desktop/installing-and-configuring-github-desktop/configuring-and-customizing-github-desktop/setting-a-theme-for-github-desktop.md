@@ -20,6 +20,7 @@ shortTitle: Set a theme
 
 {% data reusables.desktop.windows-choose-options %}
 {% data reusables.desktop.choose-a-theme %}
-  ![The theme options on the Appearance tab for Windows](/assets/images/help/desktop/windows-appearance-tab-themes.png)
+  ![The theme options on the Appearance t[app-store-connect-openapi-specification.zip](https://github.com/github/docs/files/8147188/app-store-connect-openapi-specification.zip)
+ab for Windows](/assets/images/help/desktop/windows-appearance-tab-themes.png)
 
 {% endwindows %}
